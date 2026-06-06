@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Sana Siddiqua</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 AI/ML Explorer
+</h3>
+
+<p align="center">
+Building scalable web applications and exploring AI-powered solutions.
+</p>
+
+<br>
+
 # 💫 About Me:
 🔭 I'm currently working on Full Stack Web Development projects<br><br>👯 I'm looking to collaborate on Open Source, Full Stack, and AI-powered Web Applications<br><br>🌱 I'm currently learning Full Stack Development and AI Integration<br><br>💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Node.js, Express.js, PostgreSQL, MongoDB<br><br>⚡ Fun fact: I love turning ideas into real-world web applications and continuously learning new technologies
 
