@@ -43,17 +43,19 @@ Building scalable web applications and exploring AI-powered solutions.
 
 [![Sana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sana-145&theme=react-dark)](https://github.com/Sana-145)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sana-145&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h2 align="center">📫 Connect With Me</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sana-145&limit=5&theme=date_night&combine_all_yearly_contributions=true)
+<p align="center">
+<a href="https://www.linkedin.com/in/sana-siddiqua-35438a2a7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=Sana-145&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="mailto:sanasiddiqua575@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
