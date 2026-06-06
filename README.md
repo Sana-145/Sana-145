@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sana Siddiqua</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Explorer;Building+Real+World+Projects" />
+</p>
+
 <h3 align="center">
 🚀 Full Stack Developer | 🤖 AI/ML Explorer
 </h3>
@@ -9,6 +13,17 @@ Building scalable web applications and exploring AI-powered solutions.
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sana-145&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
 
 # 💫 About Me:
 🔭 I'm currently working on Full Stack Web Development projects<br><br>👯 I'm looking to collaborate on Open Source, Full Stack, and AI-powered Web Applications<br><br>🌱 I'm currently learning Full Stack Development and AI Integration<br><br>💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Node.js, Express.js, PostgreSQL, MongoDB<br><br>⚡ Fun fact: I love turning ideas into real-world web applications and continuously learning new technologies
@@ -23,6 +38,11 @@ Building scalable web applications and exploring AI-powered solutions.
 ![](https://github-readme-stats.shion.dev/api?username=Sana-145&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sana-145&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sana-145&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📈 GitHub Activity Graph
+
+[![Sana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sana-145&theme=react-dark)](https://github.com/Sana-145)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sana-145&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
